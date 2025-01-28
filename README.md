@@ -94,3 +94,13 @@ Image captioning is a challenging task that involves generating descriptive text
 ---
 
 Thank you for exploring our project!
+![Figure 2024-11-14 132406 (2)](https://github.com/user-attachments/assets/2a28f614-1704-4436-89d4-c7092266eb5d)
+![Figure 2024-11-14 132406 (1)](https://github.com/user-attachments/assets/380ce06f-bdd8-41fc-a93e-0c0118a26f46)
+![Figure 2024-11-14 132406 (0)](https://github.com/user-attachments/assets/f49e3f99-2299-4988-9ae3-3d902e14c426)
+![Figure 2024-11-14 132406 (9)](https://github.com/user-attachments/assets/14eaca75-fd0f-4fd6-9ee9-49840d29f1c4)
+![Figure 2024-11-14 132406 (8)](https://github.com/user-attachments/assets/12789b60-43a5-4e9f-8983-08e274edc451)
+![Figure 2024-11-14 132406 (7)](https://github.com/user-attachments/assets/46955da6-5a6a-4cb7-a7c6-8e846b4b8448)
+![Figure 2024-11-14 132406 (6)](https://github.com/user-attachments/assets/18d681e2-d9ad-4f13-b0e9-8396568ba0d9)
+![Figure 2024-11-14 132406 (5)](https://github.com/user-attachments/assets/7bf439b7-4bd5-4b10-b730-2fe33f8cd270)
+![Figure 2024-11-14 132406 (4)](https://github.com/user-attachments/assets/52b66e1d-57b5-4cdf-9c37-8d487c8f4bcf)
+![Figure 2024-11-14 132406 (3)](https://github.com/user-attachments/assets/86a5f2c9-81cc-4397-9e86-ddd2165aab1e)
